@@ -1,0 +1,45 @@
+.penguin img{
+    width: 300px;
+}
+.top-logo{
+    background-color: rgba(245, 234, 220, 0.89);
+    border-radius: 10px;
+}
+.jacket-2 img{
+    height: 400px;
+    padding: 70px;
+}
+.jacket-1 img{
+    height: 400px;
+    padding: 60px;
+}
+.jacket-3 img{
+    height: 400px;
+    padding: 60px;
+}
+.jacket-4 img{
+    height: 400px;
+    padding: 60px;
+}
+.jacket-5 img{
+    height: 400px;
+    padding: 60px;
+}
+.jacket-6 img{
+    height: 400px;
+    padding: 60px;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+.catagories img{
+    width: 100px;
+}
+
+
+
+
